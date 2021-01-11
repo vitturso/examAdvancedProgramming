@@ -12,4 +12,4 @@ Insert
 5) void insert (InputIterator first, InputIterator last);
 6) void insert (std::initializer_list<value_type>);
 I used the fifth version.
-With the comado make I can run the program.
+With the comado make I can run the program. I have not finished everything but I can do it on the oral.
